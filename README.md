@@ -1,2 +1,2 @@
 # Pset6
-The python script contains the implementation of 
+The python script contains the implementation of ceasar encrytion method.
